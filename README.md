@@ -1,2 +1,2 @@
 # Scraper
-Web scraper
+Web scraper.
